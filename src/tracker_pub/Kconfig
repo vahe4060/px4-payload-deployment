@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_TRACKER_PUB
+	bool "tracker_pub"
+	default n
+	---help---
+		Enable support for tracker_pub
