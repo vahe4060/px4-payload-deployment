@@ -31,4 +31,4 @@
 #
 ############################################################################
 
-add_subdirectory(tracker_pub EXCLUDE_FROM_ALL)
+add_subdirectory(payload_deploy EXCLUDE_FROM_ALL)

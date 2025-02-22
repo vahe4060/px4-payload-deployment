@@ -1,5 +1,5 @@
 
 set(config_module_list_external
-    modules/tracker_pub
+    modules/payload_deploy
     PARENT_SCOPE
     )
