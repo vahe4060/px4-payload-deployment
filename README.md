@@ -1,6 +1,9 @@
 Todo:
+
 .) Add payload_deploy_main module
+
 .) Add payload property variables
+
       PAYLOAD_WEIGHT [float], 
       PAYLOAD_CX [float], PAYLOAD_CY [float], 
       PAYLOAD_ALIGNMENT [enum - horizontal/vertical],
